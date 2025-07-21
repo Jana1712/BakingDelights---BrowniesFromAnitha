@@ -1,7 +1,10 @@
-🍫 BakingDelights – Homemade Brownies Website
-BakingDelights is a responsive, user-friendly website for a home-based brownie shop. Built with HTML, CSS, JavaScript, and Bootstrap, this project showcases a delightful online presence for small food businesses. It features a modern design, product highlights, and a contact section for customer inquiries.
+🍫 BakingDelights – Brownies From Anitha
+BakingDelights is a custom-built website developed for my cousin’s home-based brownie business, Brownies From Anitha. The site showcases her delicious homemade brownies, helping her connect with more customers and grow her brand online. This responsive website was created using HTML, CSS, JavaScript, and Bootstrap, and is deployed on Netlify.
 
 🔗 Live Demo: https://bakingdelights.netlify.app/
+📺 YouTube Channel: @BrowniesFromAnitha
+
+
 
 💡 Features
 🍪 Beautiful and responsive UI using Bootstrap
@@ -53,6 +56,11 @@ Copy
 Edit
 git clone https://github.com/yourusername/BakingDelights-BrowniesFromAnitha.git
 Open index.html in your browser
+
+
+🙌 Support Small Businesses
+This project is a tribute to small businesses and homemade food creators. Support Brownies From Anitha by subscribing to her YouTube channel and spreading the word!
+
 
 📬 Feedback & Contributions
 Feel free to fork the repository and submit pull requests for improvements.
