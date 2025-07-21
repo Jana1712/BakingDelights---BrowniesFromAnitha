@@ -22,6 +22,7 @@ BakingDelights is a custom-built website developed for my cousin’s home-based 
 🧾 Clean and organized code structure
 
 🛠️ Tech Stack
+
 HTML5
 
 CSS3
