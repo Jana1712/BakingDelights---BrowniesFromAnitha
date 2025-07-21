@@ -33,13 +33,16 @@ Netlify
 
 📸 Screenshots
 
-<img width="2114" height="1220" alt="image" src="https://github.com/user-attachments/assets/fe122829-65a4-4ace-a4c4-c029eeeeae90" />
+<img width="1058" height="621" alt="image" src="https://github.com/user-attachments/assets/dd34b4e4-d092-40b4-94f9-0486aa543ffb" />
 
-<img width="2125" height="1525" alt="image" src="https://github.com/user-attachments/assets/e1fa46c9-d2f2-436d-8ccc-92bd45b89771" />
+<img width="1049" height="625" alt="image" src="https://github.com/user-attachments/assets/f191cd90-8eff-476a-b9a8-8012a2e7ea00" />
 
-<img width="2100" height="1428" alt="image" src="https://github.com/user-attachments/assets/44967a36-cd2c-4f10-b14d-9ffd767fcf3f" />
+<img width="2101" height="1232" alt="image" src="https://github.com/user-attachments/assets/5f47e079-b79c-49ce-981a-dd95d18f9934" />
 
-<img width="2124" height="1149" alt="image" src="https://github.com/user-attachments/assets/fd43944d-eee4-4de2-9d38-2128d18652b2" />
+<img width="2094" height="1242" alt="image" src="https://github.com/user-attachments/assets/e0c0e18b-017e-4290-a69c-47f6c35187af" />
+
+<img width="2108" height="1232" alt="image" src="https://github.com/user-attachments/assets/1f0a925c-db2f-472a-beba-f9e4e1964a2b" />
+
 
 
 🚀 Getting Started
